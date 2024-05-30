@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on NomaX, Heryon
 
-- 🌱 Working on Java (SpigotAPI, BungeeAPI & VelocityAPI)**
+- 🌱 Working on Java (SpigotAPI, BungeeAPI & VelocityAPI)
 
 - 🔗 Discord: **vedcodee**
 <p align="left">
